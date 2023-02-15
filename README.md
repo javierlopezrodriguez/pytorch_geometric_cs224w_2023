@@ -10,5 +10,7 @@ Colabs:
   - Creating a GNN for node property prediction (using GCNConv layers).
   - Creating a GNN for graph property prediction (extending the previous GNN architecture, that computes node embeddings, to compute a graph embedding).
   - Training and evaluation loops using Pytorch.
+  - GCNConv was first described in: https://arxiv.org/abs/1609.02907
 - Colab 3:
   - Implementing GraphSAGE GNN layer from "scratch", translating the mathematical equations that explain the message and aggregation steps into code.
+  - GraphSAGE was first described in: https://arxiv.org/abs/1706.02216
