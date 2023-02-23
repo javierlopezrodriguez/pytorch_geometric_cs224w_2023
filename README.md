@@ -14,3 +14,8 @@ Colabs:
 - Colab 3:
   - Implementing GraphSAGE GNN layer from "scratch", translating the mathematical equations that explain the message and aggregation steps into code.
   - GraphSAGE was first described in: https://arxiv.org/abs/1706.02216
+- Colab 4:
+  - Implementing GAT (graph attention) GNN layer from "scratch", similarly to Colab 3.
+  - Consideration of multi-head attention in the GAT message passing layer implementation.
+  - Included numerical example of the attention weights calculation.
+  - GAT was first described in: https://arxiv.org/abs/1710.10903
